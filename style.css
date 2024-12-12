@@ -113,3 +113,23 @@ section {
 #tecnology a {
     background-color: #00007e;
 }
+
+/*Footer*/
+footer {
+    background-color: #808080;
+}
+
+footer .container {
+    width: 30vw;
+    padding: 8px 0;
+
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.container a {
+    color: #ffffff;
+}
+.container a:hover {
+    text-decoration: underline;
+}
